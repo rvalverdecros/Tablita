@@ -11,11 +11,6 @@ fun main(){
     val dos = table {
         header(uno[0], uno[1], uno[2], uno[3],uno[4],uno[5],uno[6],uno[7],uno[8])
         row(tres[0], tres[1], tres[2], tres[3],tres[4],tres[5],tres[6],tres[7],tres[8])
-        row(cuatro[0], cuatro[1], cuatro[2], cuatro[3],cuatro[4],cuatro[5],cuatro[6],cuatro[7],cuatro[8])
-        row(cuatro[0], cuatro[1], cuatro[2], cuatro[3],cuatro[4],cuatro[5],cuatro[6],cuatro[7],cuatro[8])
-        row(cuatro[0], cuatro[1], cuatro[2], cuatro[3],cuatro[4],cuatro[5],cuatro[6],cuatro[7],cuatro[8])
-        row(cuatro[0], cuatro[1], cuatro[2], cuatro[3],cuatro[4],cuatro[5],cuatro[6],cuatro[7],cuatro[8])
-        row(cuatro[0], cuatro[1], cuatro[2], cuatro[3],cuatro[4],cuatro[5],cuatro[6],cuatro[7],cuatro[8])
 
         hints {
             precision(uno[2], 2)
